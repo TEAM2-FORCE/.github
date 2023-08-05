@@ -13,6 +13,9 @@
 - ex) feat: 로그인 기능 구현
     - : 뒤의 메시지는 알아보기 쉽게만 작성, 따로 컨벤션을 두진 않음
  
+![커밋 컨벤션 표](https://github.com/TEAM2-FORCE/.github/assets/96538554/86833b91-de7c-4f81-8fea-b99bececc812)
+
+ 
 ### 🍿깃 전략 (git flow)
 
 - `main` : 제품으로 출시될 수 있는 브랜치
